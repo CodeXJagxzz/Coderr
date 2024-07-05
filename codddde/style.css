@@ -1,0 +1,19 @@
+body{
+    background-color: #627254;
+    
+}
+h1{
+    color:#DDDDDD ;
+    text-decoration: line-through;
+    text-align: center;
+    text-decoration: palegoldenrod line-through;
+}
+h2{
+    color: #E2F4C5;
+}
+h3{
+    color: #EADFB4;}
+
+a {
+text-decoration: none;
+    }
